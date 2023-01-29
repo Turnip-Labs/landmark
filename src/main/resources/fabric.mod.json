@@ -22,7 +22,7 @@
     ]
   },
   "mixins": [
-      "deathlog.mixins.json"
+      "landmark.mixins.json"
   ],
 
   "depends": {
